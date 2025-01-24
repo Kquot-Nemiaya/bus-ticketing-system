@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: wheat;
+    color: #0e0d0d;}
+
+    .nav-item a{
+        color: white;
+        font-weight: bolder;
+    }
+    h4{ 
+        color: rgb(69, 148, 218);
+    }
+    
+    h3{
+        color: rgb(69, 148, 218);
+    }
+    .navbar-brand{
+        margin-bottom: 20px;
+        color: white;
+        padding: 20px;
+        font-size: 25px;
+        font-weight: bolder;
+    }

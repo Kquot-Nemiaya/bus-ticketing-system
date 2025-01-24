@@ -1,0 +1,24 @@
+
+.text-box{
+    width: 90%;
+    color: #319ed9;
+    position: absolute;
+    top:40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.text-box h1{
+    font-size: 62px;
+
+}
+.text-box p{
+    margin: 10px 0 40px;
+    font-size: 24px;
+    color: #05021a;
+    background-color: green;
+}
+h4{ 
+    color: orange;
+
+}

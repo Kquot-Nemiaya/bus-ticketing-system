@@ -1,0 +1,44 @@
+
+.text-box{
+    width: 90%;
+    color: #31d939;
+    position: absolute;
+    top:40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.navbar-brand{
+    color: azure;
+    cursor: pointer;
+    background: rgb(12, 12, 12);
+    border-radius: 5px;
+    padding: 10px 10px;
+      
+}
+.nav-link {
+    color: azure;
+    font-weight: bolder;
+}
+.text-box h1{
+    font-size: 62px;
+
+}
+.text-box p{
+    margin-top: 20px;
+    margin-left: 800px;
+    font-size: 200%;
+    font-weight: bolder;
+    margin-top: 30px;
+    color: rgb(247, 133, 28);
+    
+}
+.container .collapse navbar-collapse ul li a{
+    padding: 50px;
+    background-color: wheat;
+    color: aliceblue;
+
+}
+.form{
+    max-width: 35%;
+}
